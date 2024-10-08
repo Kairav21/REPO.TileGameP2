@@ -67,14 +67,7 @@ namespace TileGame
 
             currentLevel.UpdateVision();
 
-            //foreach (EnemyTile enemy in currentLevel.Enemies)
-            //{
-            //    if (enemy.IsDead == false && enemy.GetMove(out Tile targetTile) == true)              // 
-            //    {
-            //        currentLevel.SwopTiles(enemy, targetTile);
-            //    }
-            //    currentLevel.UpdateVision();
-            //}
+            
         }
 
         public GameEngine(Level level)
@@ -262,17 +255,7 @@ namespace TileGame
        
         public  void  TriggerMovement(Direction direction)
         {
-            //MoveHero(direction);
-            //currentLevel.Hero.UpdateVision(currentLevel);
-           
-            //    successfulHeroMoves++;
-            //    //MoveHero(direction);
-            //    // Call MoveEnemies for every 2 successful moves made by the hero
-            //    if (successfulHeroMoves % 2 == 0)
-            //    {
-            //        MoveEnemies();
-
-            //    }
+            
 
             if ( gameState == GameState.InProgress)
             {
