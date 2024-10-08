@@ -1,0 +1,10 @@
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\bin\Debug\TileGame.exe.config
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\bin\Debug\TileGame.exe
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\bin\Debug\TileGame.pdb
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.csproj.AssemblyReference.cache
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.Form1.resources
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.Properties.Resources.resources
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.csproj.GenerateResource.cache
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.csproj.CoreCompileInputs.cache
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.exe
+C:\Users\naick\OneDrive\Desktop\Coding 1st year 2nd Smester\OOP GAME TESTER !!!!!!! 2nd semester\TileGame\TileGame\obj\Debug\TileGame.pdb
